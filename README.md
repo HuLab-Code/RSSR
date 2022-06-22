@@ -1,2 +1,2 @@
 # RSSR
-code used for DEGs between regRGCs and surRGCs
+code used for DEGs analysis between regRGCs and surRGCs
